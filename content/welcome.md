@@ -1,5 +1,5 @@
 ---
-title: Welcome to empress-blog
+title: Welcome to Rankins Bell Portfolio
 image: /images/welcome.jpg
 imageMeta:
   attribution:
@@ -11,19 +11,17 @@ date: Tue Jun 12 2018 18:59:59 GMT+0100 (IST)
 tags:
   - getting-started
 ---
+I am an aspiring developer who is passionate about working
+in the development industry. My goal for this site is
+to showcase my skillset and background in programming.
 
-Hey! Welcome to empress-blog, it's great to have you :)
+### Table of Contents :
 
-We know that first impressions are important, so we've populated your new site with some initial **Getting Started** posts that will help you get familiar with everything in no time. This is the first one!
+1. About Me
 
+2. Skills  
 
-### There are a few things that you should know up-front:
-
-1. empress-blog is designed to be a static site version of the amazing [Ghost blogging platform](https://ghost.org/)
-
-1. empress-blog is designed for developers who know how to deploy a static site (folder of html files and assets) using something like S3 or even just on NGINX.
-
-1. If you are slightly less tech savvy or if you want to manage your blog outside of just a set of files in a git repo we highly recommend signing up for [Ghost](https://ghost.org/pricing/)
+3. Closing 
 
 ### Quick Start
 
