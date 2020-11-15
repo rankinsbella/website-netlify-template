@@ -85,17 +85,17 @@ Cell Phone: 267-339-4402 | Email: lovellbell926@gmail.com
 
 Work Experience:
 
-1. The Performance Group- 1625 Columbia Ave, Lancaster, PA 17603
+The Performance Group- 1625 Columbia Ave, Lancaster, PA 17603
    - Temporary Worker
-2.  Dollar Tree, 6701 Market St- Upper Darby, PA 19082
+  Dollar Tree, 6701 Market St- Upper Darby, PA 19082
    - Cashier
-3. The Fund For The Public Interest,1429 Walnut St, Ste 1100 Philadelphia, PA, 19102
+The Fund For The Public Interest,1429 Walnut St, Ste 1100 Philadelphia, PA, 19102
    - Canvasser
-4. Wendy’s, 259 City Ave, Merion Station, PA 19066
+Wendy’s, 259 City Ave, Merion Station, PA 19066
    - Cashier
-5.  McDonald’s, 5601 Vine St, Philadelphia, PA 19139
+  McDonald’s, 5601 Vine St, Philadelphia, PA 19139
    - Cashier
-6. Wes Health Center, 1926 Arch St 2, Philadelphia, PA 19103 — Intern in Human Resources
+Wes Health Center, 1926 Arch St 2, Philadelphia, PA 19103 — Intern in Human Resources
    - Intern in Human Resources
-7. Theze gifted handz Cha' Yvon's Too, 5903 Haverford Ave, Philadelphia, PA 19151
+Theze gifted handz Cha' Yvon's Too, 5903 Haverford Ave, Philadelphia, PA 19151
    - Janitor

@@ -1,6 +1,6 @@
 ---
-title: Why Ember
-image: /images/ember.jpg
+title: Skills
+image: /images/programmingLanguages.jpg
 imageMeta:
   attribution: by Robert Wagner
   attributionLink: https://unsplash.com/photos/OM4TjQwHC1I
@@ -12,6 +12,18 @@ tags:
   - getting-started
 ---
 
-[Ember is a powerful Javascript Framework that is designed to maximise developer productivity](https://emberjs.com/). Ember also has one of the best plugin experiences in the industry, which means you can get a whole lot of functionality with just a simple `npm install`. If you want to check out the power of [Ember's addon ecosystem](https://emberobserver.com/) you can visit [Ember Observer](https://emberobserver.com/) which is made by [Code All Day](http://www.codeallday.com/).
+## Programming Languages
+Java - One year of coding experience
+R -  Half of a year of coding experience
 
-The design of empress-blog is a direct result of the work done to upgrade the [Ember Guides into an Ember application](https://github.com/ember-learn/guides-app). This system is specifically designed to make it easy for you to get started and if you have followed the [instructions on the README](https://github.com/empress/empress-blog) you will know exactly how easy it is. If you are familiar with Ember you are probably used to the Zero Config experience of setting up new applications and adding addons 🎉
+## Text editors
+Atom - Three years of experience using
+R studio - Half of a year of experience using
+
+## Projects
+I have created a video game in Java. This game is a command line application
+that uses user input to create a custom character and to make choices about
+what to do within the game. It is a linear text based adventure game where the
+player fights monsters in an endless cave system.
+
+[Cave Nightmares](https://github.com/rankinsbella/Cave-Nightmares-textbasegame)
