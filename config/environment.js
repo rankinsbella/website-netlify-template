@@ -24,7 +24,7 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'rankinsbell Portfolio',
+      title: 'Rankins Bell Portfolio',
       description: 'Aspiring Developer',
       coverImage: '/images/blackDeveloper.jpg',
 
@@ -32,9 +32,9 @@ module.exports = function(environment) {
         label: 'Home',
         route: 'index'
       }, {
-        label: 'Built by Chris Manson',
-        route: 'page',
-        id: 'chris-manson'
+        label: ,
+        route: ,
+        id:
       }]
     },
 
