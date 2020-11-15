@@ -11,7 +11,7 @@ tags:
   - getting-started
 ---
 ## About Me :
-  I am a college student at Allegheny College in Meadville, Pa.
+I am a college student at Allegheny College in Meadville, Pa.
 I wanted to go to college so I can improve my skills in coding
 and programming. I have always loved technology and working
 with technology and creating software is my life goal. Coding has
@@ -41,7 +41,7 @@ learn new skills within web and mobile application development and to study the
 process of application development from an idea to a product that is marketed to
 consumers.
 
-- Education  
+Education  
 Allegheny College - Meadville, PA
 Major: Integrative Informatics  Minor: Arabic Course Of Study
 GPA: 3.1/ 4.0
@@ -51,20 +51,20 @@ Kipp DuBois Collegiate Academy
 Course Of Study: College Preparation
 Graduation: May 2018
 
-- Relevant Courses
+Relevant Courses
 Computational Expression (Java)  Critical Media Studies
 Data Abstraction (Java)          Computational Culture
 Data Analytics (R)               Advanced Public Speaking
 Software Innovation I            Levantine Conversational Arabic
 Arabic I
 
-- Skills
+Skills  return
 Programming languages: Java, R
 Git/Github
 Atom/R studio
 Docker/Docker Destop
 
-- Related Experience
+Related Experience
 Created a command line application
 Text based linear adventure game called Cave Nightmares
 
