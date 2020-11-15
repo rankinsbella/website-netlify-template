@@ -8,7 +8,7 @@ featured: true
 authors:
   - chris
 tags:
-  - skills
+  - getting-started
 ---
 
 ## Programming Languages
