@@ -11,7 +11,7 @@ tags:
   - getting-started
 
 ---
-I am an aspiring developer who is passionate about working
+  I am an aspiring developer who is passionate about working
 in the development industry. My goal for this site is
 to showcase my skillset and background in programming.
 

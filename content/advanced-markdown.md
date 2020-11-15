@@ -11,7 +11,7 @@ tags:
   - getting-started
 ---
 ## About Me :
-I am a college student at Allegheny College in Meadville, Pa.
+  I am a college student at Allegheny College in Meadville, Pa.
 I wanted to go to college so I can improve my skills in coding
 and programming. I have always loved technology and working
 with technology and creating software is my life goal. Coding has
@@ -31,9 +31,24 @@ of company servitude to become my own company.
 
 ## Professional Documents :
 
-![Internship Resume](images/Professional Resume.pdf)
+Andrew Rankins Bell
+Current Address: 715 N 63rd street Philadelphia, PA 19151
+Cell Phone: 267-339-4402 | Email: lovellbell926@gmail.com
 
+Objective
+To find internship and higher education opportunities that would allow me to learn
+new skills within web and mobile application development and to study the process
+of application development from an idea to a product that is marketed to consumers.
 
+Education
+Allegheny College - Meadville, PA
+Major: Integrative Informatics | Minor: Arabic Course Of Study
+GPA: 3.1/ 4.0
+Graduation: May 2022
+
+Kipp DuBois Collegiate Academy
+Course Of Study: College Preparation
+Graduation: May 2018 
 
 
 ## Writing code blocks
