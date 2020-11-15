@@ -32,9 +32,9 @@ module.exports = function(environment) {
         label: 'Home',
         route: 'index'
       }, {
-        label: 
-        route:
-        id:
+        label: '',
+        route: '',
+        id: ''
       }]
     },
 
