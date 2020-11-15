@@ -8,6 +8,7 @@ featured: true
 authors:
   - ghost
 tags:
+  - getting-started
 
 ---
 I am an aspiring developer who is passionate about working
