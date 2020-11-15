@@ -29,37 +29,53 @@ lives. I know that with more experience, I can break the shackles
 of company servitude to become my own company.
 
 
-## Professional Documents :
+## Career Resume :
 
 Andrew Rankins Bell
 Current Address: 715 N 63rd street Philadelphia, PA 19151
 Cell Phone: 267-339-4402 | Email: lovellbell926@gmail.com
 
-Objective
-To find internship and higher education opportunities that would allow me to learn
-new skills within web and mobile application development and to study the process
-of application development from an idea to a product that is marketed to consumers.
+Objective:
+To find internship and higher education opportunities that would allow me to
+learn new skills within web and mobile application development and to study the
+process of application development from an idea to a product that is marketed to
+consumers.
 
-Education
+- Education  
 Allegheny College - Meadville, PA
-Major: Integrative Informatics | Minor: Arabic Course Of Study
+Major: Integrative Informatics  Minor: Arabic Course Of Study
 GPA: 3.1/ 4.0
 Graduation: May 2022
 
 Kipp DuBois Collegiate Academy
 Course Of Study: College Preparation
-Graduation: May 2018 
+Graduation: May 2018
 
+- Relevant Courses
+Computational Expression (Java)  Critical Media Studies
+Data Abstraction (Java)          Computational Culture
+Data Analytics (R)               Advanced Public Speaking
+Software Innovation I            Levantine Conversational Arabic
+Arabic I
 
-## Writing code blocks
+- Skills
+Programming languages: Java, R
+Git/Github
+Atom/R studio
+Docker/Docker Destop
 
-There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, `like this`. Larger snippets of code can be displayed across multiple lines using triple back ticks:
+- Related Experience
+Created a command line application
+Text based linear adventure game called Cave Nightmares
 
-```
-.my-link {
-    text-decoration: underline;
-}
-```
+## Work History Resume
+
+Andrew Rankins Bell
+Current Address: 715 N 63rd street Philadelphia, PA 19151
+Cell Phone: 267-339-4402 | Email: lovellbell926@gmail.com
+
+Work Experience:
+
 
 
 ## Full bleed images
