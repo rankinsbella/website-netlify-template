@@ -8,7 +8,7 @@ featured: true
 authors:
   - ghost
 tags:
-  - getting-started
+  - conclusion
 ---
 ## Closing
 

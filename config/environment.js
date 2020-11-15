@@ -32,8 +32,8 @@ module.exports = function(environment) {
         label: 'Home',
         route: 'index'
       }, {
-        label: ,
-        route: ,
+        label: 
+        route:
         id:
       }]
     },

@@ -8,7 +8,7 @@ featured: true
 authors:
   - ghost
 tags:
-  - getting-started
+  - about-me
 ---
 ## About Me :
 I am a college student at Allegheny College in Meadville, Pa.
