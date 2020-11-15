@@ -7,6 +7,7 @@ imageMeta:
 featured: true
 authors:
   - ghost
+  tags:
 
 ---
 I am an aspiring developer who is passionate about working
