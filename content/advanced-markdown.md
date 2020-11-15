@@ -1,5 +1,5 @@
 ---
-title: Advanced Markdown tips
+title: Biography
 image: /images/advanced.jpg
 imageMeta:
   attribution:
@@ -7,23 +7,33 @@ imageMeta:
 featured: true
 authors:
   - ghost
-date: Tue Jun 12 2018 17:50:55 GMT+0100 (IST)
 tags:
   - getting-started
 ---
+## About Me :
+I am a college student at Allegheny College in Meadville, Pa.
+I wanted to go to college so I can improve my skills in coding
+and programming. I have always loved technology and working
+with technology and creating software is my life goal. Coding has
+become a driving force within my life as I take computer science classes
+and see how important data is within our lives.
+Working in computer science classes has enlightened me to the
+scope of work I want to be a part of. The process of learning
+the basics of computer science brought me back to my childhood
+days of playing with Legos and figuring out the best combination
+of pieces to put together. Using the skills I acquired to create
+my own game was incredibly rewarding and solidified my place
+in the computer science department and field. It proved that I
+could compete with programmers that have programmed their entire
+lives. I know that with more experience, I can break the shackles
+of company servitude to become my own company.
 
-There are lots of powerful things you can do with the Markdown
 
-If you've gotten pretty comfortable with [all the basics](/the-editor/) of writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do!
+## Professional Documents :
 
-As with the last post, you'll want to be looking at the source [directly on github](https://github.com/empress/empress-blog/blob/master/blueprints/empress-blog/files/__base__/content/advanced-markdown.md) or in your local editor as you read it so that you can see all the Markdown code we're using.
+![Internship Resume](images/Professional Resume.pdf)
 
 
-## Special formatting
-
-As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
-
-+ \*escaped characters\*
 
 
 ## Writing code blocks

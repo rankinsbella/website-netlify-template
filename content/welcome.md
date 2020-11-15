@@ -17,13 +17,8 @@ to showcase my skillset and background in programming.
 
 ### Table of Contents :
 
-1. About Me
- *Biography
- *Professional Documents
+1. About Me - Biography and Professional Documents
 
-2. Skills  
-  *Programming Languages
-  *Coding Project
+2. Skills - Programming Languages and Coding Project
 
-3. Closing
-  *Links to linkedin and Github
+3. Closing - Links to linkedin and Github
