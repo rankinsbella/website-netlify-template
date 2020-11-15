@@ -36,37 +36,46 @@ Current Address: 715 N 63rd street Philadelphia, PA 19151
 Cell Phone: 267-339-4402 | Email: lovellbell926@gmail.com
 
 Objective:
+
 To find internship and higher education opportunities that would allow me to
 learn new skills within web and mobile application development and to study the
 process of application development from an idea to a product that is marketed to
 consumers.
 
-Education  
+Education:  
+
 Allegheny College - Meadville, PA
-Major: Integrative Informatics  Minor: Arabic Course Of Study
+Major: Integrative Informatics Minor: Communications
 GPA: 3.1/ 4.0
 Graduation: May 2022
 
 Kipp DuBois Collegiate Academy
-Course Of Study: College Preparation
 Graduation: May 2018
 
-Relevant Courses
-Computational Expression (Java)  Critical Media Studies
-Data Abstraction (Java)          Computational Culture
-Data Analytics (R)               Advanced Public Speaking
-Software Innovation I            Levantine Conversational Arabic
-Arabic I
+Relevant Courses:
 
-Skills  return
-Programming languages: Java, R
-Git/Github
-Atom/R studio
-Docker/Docker Destop
+1. Computational Expression (Java)  
+2. Critical Media Studies
+3. Data Abstraction (Java)          
+4. Computational Culture
+5. Data Analytics (R)              
+6. Advanced Public Speaking
+7. Software Innovation I            
+8. Levantine Conversational Arabic
+9. Arabic I
+
+Skills  
+
+- Java
+- R
+- Git/Github
+- Atom/R studio
+- Docker/Docker Destop
 
 Related Experience
-Created a command line application
-Text based linear adventure game called Cave Nightmares
+
+- Created a command line application
+- Text based linear adventure game called Cave Nightmares
 
 ## Work History Resume
 
@@ -76,37 +85,17 @@ Cell Phone: 267-339-4402 | Email: lovellbell926@gmail.com
 
 Work Experience:
 
-
-
-## Full bleed images
-
-One neat trick which you can use in Markdown to distinguish between different types of images is to add a `#hash` value to the end of the source URL, and then target images containing the hash with special styling. For example:
-
-![walking](https://casper.ghost.org/v1.0.0/images/walking.jpg#full)
-
-which is styled with...
-
-```
-img[src$="#full"] {
-    max-width: 100vw;
-}
-```
-
-This creates full-bleed images in the Casper theme, which stretch beyond their usual boundaries right up to the edge of the window. Every theme handles these types of things slightly differently, but it's a great trick to play with if you want to have a variety of image sizes and styles.
-
-
-## Reference lists
-
-**The quick brown [fox][1], jumped over the lazy [dog][2].**
-
-[1]: https://en.wikipedia.org/wiki/Fox "Wikipedia: Fox"
-[2]: https://en.wikipedia.org/wiki/Dog "Wikipedia: Dog"
-
-Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.
-
-
-## Full HTML
-
-Perhaps the best part of Markdown is that you're never limited to just Markdown. You can write HTML directly in the Ghost editor and it will just work as HTML usually does. No limits! Here's a standard YouTube embed code as an example:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+1. The Performance Group- 1625 Columbia Ave, Lancaster, PA 17603
+  - Temporary Worker
+2.  Dollar Tree, 6701 Market St- Upper Darby, PA 19082
+  - Cashier
+3. The Fund For The Public Interest,1429 Walnut St, Ste 1100 Philadelphia, PA, 19102
+  - Canvasser
+4. Wendy’s, 259 City Ave, Merion Station, PA 19066
+  - Cashier
+5.  McDonald’s, 5601 Vine St, Philadelphia, PA 19139
+  - Cashier
+6. Wes Health Center, 1926 Arch St 2, Philadelphia, PA 19103 — Intern in Human Resources
+  - Intern in Human Resources
+7. Theze gifted handz Cha' Yvon's Too, 5903 Haverford Ave, Philadelphia, PA 19151
+  - Janitor
