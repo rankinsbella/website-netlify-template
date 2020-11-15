@@ -13,12 +13,10 @@ tags:
 ---
 
 ## Programming Languages
-Java - One year of coding experience
-R -  Half of a year of coding experience
+Java - One year of coding experience  R -  Half of a year of coding experience
 
 ## Text editors
-Atom - Three years of experience using
-R studio - Half of a year of experience using
+Atom - Three years of experience using  R studio - Half of a year of experience using
 
 ## Projects
 I have created a video game in Java. This game is a command line application
